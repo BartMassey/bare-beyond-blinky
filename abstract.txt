@@ -1,0 +1,17 @@
+# Bare Beyond Blinky: "Normal" Bare-Metal Rust
+
+Last month at PDXRust we got an extremely simple embedded
+Rust program, a "blinky", running on a BBC micro:bit
+(https://github.com/BartMassey/an-inordinate-display).
+
+This month, we will look at the hardware available to us on
+the micro:bit and do a lightning survey of the most-used
+techniques for using this hardware with bare-metal Rust.
+There will be many examples, and things will move fairly
+quickly, with exciting lights and sounds. We will peek at
+peripheral registers, interrupts and DMA as we make these
+things happen.
+
+You do not need to be an "advanced" Rust programmer to
+follow this talk, but we will breeze by a lot of the
+language as we go.
